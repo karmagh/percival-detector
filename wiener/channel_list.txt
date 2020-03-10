@@ -1,0 +1,12 @@
+Channel		Bias		Nominal Value (V)	
+
+u0		Vreg_3V3		3.9
+u1		Vreg_0V7		1.5
+u2      	Vreg_1V8		2.8		
+u3  		Vreg_2V3		3.5
+u4		Vcontr_all		6			
+u5		5V1_supply		5
+u6		3V3_supply		3.3
+u7		PIXELRING		-5
+u100		8V_supply		8
+u101		m8V_supply		-8
